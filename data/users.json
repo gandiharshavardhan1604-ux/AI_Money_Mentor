@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "GANDI_HARSHA_VARDHAN",
+      "password": "hashed_password",
+      "income": 50000,
+      "goal_amount": 2000000,
+      "risk": "Low"
+    }
+  ]
+}
