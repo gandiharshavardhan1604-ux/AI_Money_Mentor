@@ -1,30 +1,6 @@
 {
     "GANDI HARSHA VARDDHAN": [
         {
-            "Income": 50000,
-            "Expenses": 30000,
-            "Savings": 20000,
-            "Goal": 2000000,
-            "Years": 5,
-            "Risk": "Low"
-        },
-        {
-            "Income": 100000,
-            "Expenses": 30000,
-            "Savings": 70000,
-            "Goal": 2000000,
-            "Years": 5,
-            "Risk": "Low"
-        },
-        {
-            "Income": 100000,
-            "Expenses": 100,
-            "Savings": 99900,
-            "Goal": 2000000,
-            "Years": 5,
-            "Risk": "Low"
-        },
-        {
             "income": 50000,
             "expenses": 30000,
             "savings": 20000,
@@ -35,84 +11,4 @@
         },
         {
             "income": 50000,
-            "expenses": 30000,
-            "savings": 20000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 30000,
-            "savings": 20000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 30000,
-            "savings": 20000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 30000,
-            "savings": 20000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 30000,
-            "savings": 20000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 30000,
-            "savings": 20000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 45000,
-            "savings": 5000,
-            "goal": 2000000,
-            "years": 5,
-            "risk": "Low",
-            "sip": 24488
-        },
-        {
-            "income": 50000,
-            "expenses": 45000,
-            "savings": 5000,
-            "goal": 2000000,
-            "years": 2,
-            "risk": "Low",
-            "sip": 74146
-        },
-        {
-            "income": 50000,
-            "expenses": 45000,
-            "savings": 5000,
-            "goal": 2000000,
-            "years": 2,
-            "risk": "High",
-            "sip": 74146
-        }
-    ]
-}
+            "expenses": 

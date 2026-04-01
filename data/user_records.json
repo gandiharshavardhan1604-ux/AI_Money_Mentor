@@ -1,0 +1,31 @@
+{
+    "GANDI HARSHA VARDDHAN": [
+        {
+            "income": 50000,
+            "expenses": 30000,
+            "savings": 20000,
+            "goal": 2000000,
+            "years": 5,
+            "risk": "Low",
+            "sip": 24488
+        },
+        {
+            "income": 50000,
+            "expenses": 31000,
+            "savings": 19000,
+            "goal": 2000000,
+            "years": 5,
+            "risk": "Low",
+            "sip": 24488
+        },
+        {
+            "income": 50000,
+            "expenses": 31000,
+            "savings": 19000,
+            "goal": 2000000,
+            "years": 5,
+            "risk": "Low",
+            "sip": 24488
+        }
+    ]
+}
